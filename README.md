@@ -2,4 +2,4 @@ Using Simulated Anealing to solve the Traveling Salesman Problem (TSP) between U
 
 To launch the notebook, run the following command from a terminal with anaconda3 installed and on the application path:
 
-    jupyter notebook AIND-Simulated_Annealing.ipynb
+    jupyter notebook TSP-Simulated_Annealing.ipynb
